@@ -1,0 +1,28 @@
+body{
+  background: url(https://media.npr.org/assets/img/2016/02/28/istock_000044263700_medium_wide-4ff1bd64d60a9b717c67c1cc2d6cc9727b2ea339-s800-c85.jpg)
+}
+
+#demo {
+  border: solid;
+  border-color: black;
+  height: 115px;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border-radius: 100px;
+  margin-left: 3%;
+  font-size: 50px;
+  color: white;
+  background-color: #C4817E;
+}
+
+h1{
+  background-color: pink
+}
+.card-container{
+  background-color: black;
+  width:400px;
+  height: 200px;
+  color: white;
+}
